@@ -1,0 +1,4 @@
+Bundle-Name: modulo_saludar
+Bundle-SymbolicName: com.somospnt.saludo.modulo_saludar
+Bundle-Version: 1.0.0
+Export-Package: com.somospnt.saludo.api
